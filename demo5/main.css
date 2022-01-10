@@ -1,0 +1,30 @@
+.target {
+    background: silver;
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 40px;
+
+    border: 10px solid cornflowerblue;
+
+    margin: 100px
+
+
+}
+
+.point {
+    background: tomato;
+    width: 200px;
+    height: 200px;
+}
+
+.link {
+    background: silver;
+    width: 200px;
+    height: 200px;
+    display: block;
+    box-sizing: border-box;
+    padding: 30px;
+}
